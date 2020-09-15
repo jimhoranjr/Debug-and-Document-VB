@@ -45,14 +45,14 @@ ContinueProcess
 			
 			
 			
-Sub/Func	Located in	Line # in Component
-ContinueProcess	Print_Controls	19	
+Sub/Func		Located in		Line # in Component
+ContinueProcess		Print_Controls		19	
 Create_Print_Button	CreatePrintModSheet	678	
 Create_Return_Button	CreatePrintModSheet	706	
-CreatePrintMod	CreatePrintModSheet	298	
-FuncCmtorBlank	CreatePrintModSheet	268	
-ProcessData	CreatePrintModSheet	2	
-ProgressMessage	Get_Workbook_Components	190	
+CreatePrintMod		CreatePrintModSheet	298	
+FuncCmtorBlank		CreatePrintModSheet	268	
+ProcessData		CreatePrintModSheet	2	
+ProgressMessage		Get_Workbook_Components	190	
 			
 			
 
