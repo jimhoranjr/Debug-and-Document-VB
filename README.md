@@ -31,7 +31,7 @@ ContinueProcess
 	              ProcessData		
 		                      ProgressMessage	
 	              ProcessData		
-                          FuncCmtorBlank	
+                          	      FuncCmtorBlank	
 	              ProcessData		
 ContinueProcess			
 	             CreatePrintMod		
