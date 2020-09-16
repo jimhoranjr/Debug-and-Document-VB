@@ -1,4 +1,9 @@
 # Debug-and-Document-VB
+This will eventually hold several Excel addins I wrote to help Document and Debug 
+VB scripts.  I have left all these spreadsheets as regular macro enabled spreadsheets.
+You can converth tem to the addin format by saving them as an Excel Addin ie. *.xlam. 
+In the excel addin directory AppData > Roaming > Microsoft > Addins
+
 
 Print VB Components Addin
 
